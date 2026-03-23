@@ -6,7 +6,7 @@
 
 *Software Development · SaaS · Smart Contracts · IT Consulting*
 
-[![Email](https://img.shields.io/badge/Contact-info@blueprintstech.org-0a84ff?style=flat-square&logo=gmail&logoColor=white)](mailto:blueprintstechnology@outlook.com)
+[![Email](https://img.shields.io/badge/Contact-blueprintstechnology@outlook.com-0a84ff?style=flat-square&logo=gmail&logoColor=white)](mailto:blueprintstechnology@outlook.com)
 ![Status](https://img.shields.io/badge/Status-Active-00ffc8?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Secure%20Digital%20Infrastructure-0a84ff?style=flat-square)
 
